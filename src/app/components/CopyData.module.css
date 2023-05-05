@@ -1,0 +1,32 @@
+.main {
+	background: #F0E0FD;
+	border-radius: 1rem;
+	cursor: pointer;
+
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.text {
+	font-weight: 700;
+	color: #8E61D6;
+	font-size: 1em;
+	padding-left: 1em;
+}
+
+.wrapper {
+	height: 100%;
+	padding-right: 1rem;
+
+	display: flex;
+	align-items: center;
+	justify-content: center;
+
+	border-radius: 0 1rem 1rem 0;
+}
+
+.icon {
+	width: 12px;
+	height: 15px;
+}
